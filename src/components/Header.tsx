@@ -43,9 +43,9 @@ const Header = () => {
       >
         <div className="w-full max-w-7xl mx-auto px-4 flex justify-between items-center">
           {/* Logo */}
-          <h1 className="text-3xl font-bold">
+          <Link href="/" className="text-3xl font-bold">
             My <span className="text-blue-500">Portfolio</span>
-          </h1>
+          </Link>
 
           {/* Links for desktop view */}
           <div className="hidden md:flex items-center space-x-4 text-lg font-medium">
