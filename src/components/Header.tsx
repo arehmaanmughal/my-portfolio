@@ -83,19 +83,19 @@ const Header = () => {
           <div className="hidden lg:flex items-center gap-3">
             <Link
               href=""
-              className="w-10 h-10 bg-gray-500 text-xl rounded-full flex justify-center items-center"
+              className="w-10 h-10 bg-gray-500 text-xl rounded-full flex justify-center items-center hover:bg-white hover:text-black transition-colors duration-300 ease-out"
             >
               <FaGithub />
             </Link>
             <Link
               href=""
-              className="w-10 h-10 bg-blue-500 text-xl rounded-full flex justify-center items-center"
+              className="w-10 h-10 bg-blue-500 text-xl rounded-full flex justify-center items-center hover:bg-white hover:text-black transition-colors duration-300 ease-out"
             >
               <FaLinkedin />
             </Link>
             <Link
               href=""
-              className="w-10 h-10 bg-green-500 text-xl rounded-full flex justify-center items-center"
+              className="w-10 h-10 bg-green-500 text-xl rounded-full flex justify-center items-center hover:bg-white hover:text-black transition-colors duration-300 ease-out"
             >
               <FaWhatsapp />
             </Link>
