@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="w-full max-w-6xl mx-auto px-4 text-white space-y-12">
           <div className="space-y-6">
             <h1 className="text-5xl sm:text-7xl font-extrabold text-center">
-              Hello, I'm <span className="text-blue-500">Abdul Rehman</span>
+              Hello, I&apos;m <span className="text-blue-500">Abdul Rehman</span>
             </h1>
             <h2 className="text-3xl sm:text-5xl font-semibold text-center">
               A Passionate{" "}
