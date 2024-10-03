@@ -1,5 +1,4 @@
 import React from "react";
-import { BiDownArrow, BiDownload } from "react-icons/bi";
 import { IoMdDownload } from "react-icons/io";
 
 const Hero = () => {
